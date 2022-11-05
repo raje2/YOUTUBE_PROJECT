@@ -35,7 +35,7 @@ YouTube is a free video-sharing website that makes it easy to watch online video
 <h2>Responsibilities<h2>
 
 <h4>Rajesh Pradhan </h4>
-<p>Rajesh worked on the functionality of the lower navbar and right side navbar where users can read news related to the different topics as per the choice and help to make the bottom part also.</p>
+<p>Created the YouTube Home Page with realistic and fully responsible. Users can search for any video and play the video also with a No-ads experience.</p>
  <div style="display: grid; grid-template-columns: repeat(2,1fr); gap:20px" >
 
   <img style="width: 100%;" src="https://miro.medium.com/max/720/1*rOW7DoCsDy3shAUAJeJ9PA.png" alt="">
